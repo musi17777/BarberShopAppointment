@@ -1,0 +1,34 @@
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Android Studio ###
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Windows ###
+Thumbs.db
+desktop.ini
+
+### Logs ###
+*.log
+*.stacktrace
+*.out
+
+### Generated files ###
+*.class
+*.jar
+*.apk
+*.dex
+*.keystore
